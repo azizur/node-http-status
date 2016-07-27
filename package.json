@@ -1,0 +1,23 @@
+{
+  "name": "node-http-status",
+  "version": "1.0.0",
+  "description": "A simple HTTP Status app for mocking HTTP requests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azizur/node-http-status.git"
+  },
+  "author": "Azizur Rahman <@azizur>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azizur/node-http-status/issues"
+  },
+  "homepage": "https://github.com/azizur/node-http-status#readme",
+  "dependencies": {
+    "connect-timeout": "^1.7.0",
+    "express": "^4.14.0"
+  }
+}
